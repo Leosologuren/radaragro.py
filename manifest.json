@@ -1,16 +1,4 @@
 {
-  "name": "Radar Agro Econômico",
-  "description": "Gera carrosséis automáticos com base em dados agrícolas, macroeconômicos e geopolíticos.",
-  "author": "Biofy Agro IA",
-  "version": "1.0",
-  "main": "src/main.js",
-  "permissions": [
-    "canva:design:content:read",
-    "canva:design:content:write",
-    "canva:asset:private:read",
-    "canva:asset:private:write",
-    "canva:brandkit:read"
-  ],
-  "type": "app",
-  "entrypoint": "public/index.html"
+  "name": "Radar Agro Backend",
+  "version": "1.0.0"
 }
